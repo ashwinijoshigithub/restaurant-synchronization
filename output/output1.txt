@@ -1,0 +1,88 @@
+HH:MM - 00:20: Diner 1 has arrived.
+HH:MM - 00:20: Diner 1 seats at Table 1 .
+HH:MM - 00:20: Cook 1 is making food for Diner with Diner 1
+HH:MM - 00:20: Cook 1 uses the fries machine.
+HH:MM - 00:23: Cook 1 uses the burger machine.
+HH:MM - 00:28: Cook 1 uses the burger machine.
+HH:MM - 00:30: Diner 2 has arrived.
+HH:MM - 00:30: Diner 2 seats at Table 2 .
+HH:MM - 00:30: Cook 2 is making food for Diner with Diner 2
+HH:MM - 00:30: Cook 2 uses the coke machine.
+HH:MM - 00:31: Diner 3 has arrived.
+HH:MM - 00:31: Diner 3 seats at Table 3 .
+HH:MM - 00:32: Diner 4 has arrived.
+HH:MM - 00:32: Diner 4 seats at Table 4 .
+HH:MM - 00:33: Cook 1 is making food for Diner with Diner 3
+HH:MM - 00:33: Cook 1 uses the fries machine.
+HH:MM - 00:33: Order for diner with diner 1 is ready and starts eating.
+HH:MM - 00:33: Cook 2 uses the burger machine.
+HH:MM - 00:33: Diner 5 has arrived.
+HH:MM - 00:38: Cook 1 uses the burger machine.
+HH:MM - 00:38: Cook 2 uses the sundae machine.
+HH:MM - 00:43: Cook 1 uses the sundae machine.
+HH:MM - 00:43: Cook 2 uses the burger machine.
+HH:MM - 00:48: Cook 2 uses the burger machine.
+HH:MM - 00:53: Cook 2 uses the burger machine.
+HH:MM - 00:58: Cook 1 uses the burger machine.
+HH:MM - 00:58: Order for diner with diner 2 is ready and starts eating.
+HH:MM - 00:58: Cook 2 is making food for Diner with Diner 4
+HH:MM - 00:58: Cook 2 uses the fries machine.
+HH:MM - 01:00: Diner 6 has arrived.
+HH:MM - 01:03: Diner with Diner 1 is done and leaves the restaurant.
+HH:MM - 01:03: Cook 1 is making food for Diner with Diner 5
+HH:MM - 01:03: Cook 2 uses the burger machine.
+HH:MM - 01:03: Cook 1 uses the coke machine.
+HH:MM - 01:03: Order for diner with diner 3 is ready and starts eating.
+HH:MM - 01:08: Cook 1 uses the burger machine.
+HH:MM - 01:08: Cook 2 uses the sundae machine.
+HH:MM - 01:10: Diner 7 has arrived.
+HH:MM - 01:10: Diner 7 seats at Table 1 .
+HH:MM - 01:11: Diner 8 has arrived.
+HH:MM - 01:12: Diner 9 has arrived.
+HH:MM - 01:13: Cook 1 uses the burger machine.
+HH:MM - 01:13: Diner 10 has arrived.
+HH:MM - 01:18: Cook 2 uses the burger machine.
+HH:MM - 01:18: Order for diner with diner 5 is ready and starts eating.
+HH:MM - 01:18: Cook 1 is making food for Diner with Diner 7
+HH:MM - 01:18: Cook 1 uses the coke machine.
+HH:MM - 01:23: Order for diner with diner 4 is ready and starts eating.
+HH:MM - 01:23: Cook 1 uses the burger machine.
+HH:MM - 01:28: Diner with Diner 2 is done and leaves the restaurant.
+HH:MM - 01:28: Cook 2 is making food for Diner with Diner 6
+HH:MM - 01:28: Cook 2 uses the fries machine.
+HH:MM - 01:28: Cook 1 uses the sundae machine.
+HH:MM - 01:29: Cook 1 uses the burger machine.
+HH:MM - 01:33: Diner with Diner 3 is done and leaves the restaurant.
+HH:MM - 01:34: Cook 1 uses the burger machine.
+HH:MM - 01:39: Cook 1 uses the burger machine.
+HH:MM - 01:44: Cook 1 is making food for Diner with Diner 8
+HH:MM - 01:44: Cook 2 uses the burger machine.
+HH:MM - 01:44: Order for diner with diner 7 is ready and starts eating.
+HH:MM - 01:44: Cook 1 uses the fries machine.
+HH:MM - 01:48: Diner with Diner 5 is done and leaves the restaurant.
+HH:MM - 01:49: Cook 2 uses the sundae machine.
+HH:MM - 01:49: Cook 1 uses the burger machine.
+HH:MM - 01:53: Diner with Diner 4 is done and leaves the restaurant.
+HH:MM - 01:54: Cook 2 uses the burger machine.
+HH:MM - 01:54: Cook 1 uses the sundae machine.
+HH:MM - 01:59: Order for diner with diner 6 is ready and starts eating.
+HH:MM - 01:59: Cook 2 is making food for Diner with Diner 9
+HH:MM - 01:59: Cook 1 uses the burger machine.
+HH:MM - 01:59: Cook 2 uses the fries machine.
+HH:MM - 02:04: Cook 1 is making food for Diner with Diner 10
+HH:MM - 02:04: Cook 1 uses the coke machine.
+HH:MM - 02:04: Order for diner with diner 8 is ready and starts eating.
+HH:MM - 02:04: Cook 2 uses the burger machine.
+HH:MM - 02:09: Cook 1 uses the burger machine.
+HH:MM - 02:09: Cook 2 uses the sundae machine.
+HH:MM - 02:10: Cook 2 uses the fries machine.
+HH:MM - 02:14: Diner with Diner 7 is done and leaves the restaurant.
+HH:MM - 02:14: Cook 1 uses the burger machine.
+HH:MM - 02:19: Order for diner with diner 10 is ready and starts eating.
+HH:MM - 02:19: Cook 2 uses the burger machine.
+HH:MM - 02:24: Order for diner with diner 9 is ready and starts eating.
+HH:MM - 02:29: Diner with Diner 6 is done and leaves the restaurant.
+HH:MM - 02:34: Diner with Diner 8 is done and leaves the restaurant.
+HH:MM - 02:49: Diner with Diner 10 is done and leaves the restaurant.
+HH:MM - 02:54: Diner with Diner 9 is done and leaves the restaurant.
+HH:MM - 02:54: Last diner has left the restaurant
